@@ -1,11 +1,11 @@
 # api-testing-postman
-api-testing-postman
+# api-testing-postman
 
-Project Title: GitHub & Postman Assessment
+# Project Title: GitHub & Postman Assessment
 
-Tool Used: Git, GitHub, Postman
+# Tool Used: Git, GitHub, Postman
 
-APIs Tested:
+# APIs Tested:
 
 GET request 1: https://jsonplaceholder.typicode.com
 GET request 2: https://reqres.in
@@ -15,7 +15,7 @@ Environment variable baseUrl: https://jsonplaceholder.typicode.com/posts/1
 Basic test: https://jsonplaceholder.typicode.com/posts/1
 
 
-Git command used:
+# Git command used:
 
 mkdir api-testing-postman
 cd api-testing-postman
